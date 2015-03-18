@@ -5,19 +5,19 @@ paginate: 12
 paginate_path: page/:num
 
 blog:
-    name: Jing Lu
-    quote: Miracle is just another name for hardwork.
-    description: My Blogs
-    title: Science Bank
-    url: http://startupjing.github.io/ 
-    disqus: startupjing111
+    name: Yilong Hu
+    quote: Stay hungry, stay foolish.
+    description: My Personal Blogs
+    title: TechHub
+    url: http://huyilong.github.io/ 
+    disqus: huyilong
 author:
     # Profile links on the left sidebar, leave blank to ignore
-    name: Jing Lu
-    email: jinglu@wustl.edu  
-    github: startupjing  
-    linkedin: www.linkedin.com/in/jinglu111
-    facebook: jing.lu.9615
-    gplus: 106195728977805468033/about
-    logo: http://startupjing.github.io/res/img/logo.png
+    name: Yilong Hu
+    email: hu.yilong@wustl.edu  
+    github: huyilong 
+    linkedin: www.linkedin.com/in/huyilong
+    facebook: hu.yilong.aaron
+    gplus: 103958170808553329434/about
+    logo: http://huyilong.github.io/res/img/logo.png
 
