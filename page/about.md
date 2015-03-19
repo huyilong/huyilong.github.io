@@ -7,24 +7,26 @@ title: Personal Blog
 
 ### A Little About Me
 
-- Jing Lu
+- Yilong Hu
 
-- Computer Science and Applied Mathematics
+- Applied Science in Computer Science
 
 - Class of 2016, Undergraduate student at [Washington University in St.Louis](https://www.wustl.edu)
 
-- Contact: [LinkedIn](https://www.linkedin.com/in/jinglu111), [Github](https://github.com/startupjing), or email me at jinglu@wustl.edu
+- Contact: [LinkedIn](https://www.linkedin.com/in/huyilong), [Github](https://github.com/huyilong), or email me at hu.yilong@wustl.edu :)
 
 
 ### Blog description
 
-- Share ideas on how to approach some coding problems on LeetCode or CC150
+- Exhibit some of my programming projects 
 
-- Present personal projects and describe how I accomplish them
+- Notes and logs of self-learning knowledge
 
-- Organize what I have learned both in and outside class, share knowledge with people
+- Post latest news and articles about technology 
 
-- If you have any question, leave a comment or message in my blog
+- Share my ideas and become a friend with you
+
+- If you have any question, please feel free to leave a comment or message in my blog :)
 
 ### Note
 
