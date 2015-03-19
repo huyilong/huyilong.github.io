@@ -7,7 +7,7 @@ title: Personal Blog
 
 ### A Little About Me
 
-- Yilong Hu
+- Yilong(Aaron) Hu
 
 - Applied Science in Computer Science
 
