@@ -15,9 +15,6 @@ I am learning Bootstrap these days and I am now trying to practice my Bootstrap 
 while improving my previous web project. Display of my previous work is too simple.
 
 
-See code on my [GitHub](https://github.com/startupjing/employee-management)
-
-
 ## Pages that I've finished
 
 * Home page
