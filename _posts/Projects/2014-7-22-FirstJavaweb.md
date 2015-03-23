@@ -14,8 +14,6 @@ My first JavaWeb Project
 
 Simple division management system using Spring+Hibernate
 
-See code on my [GitHub](https://github.com/startupjing/employee-management)
-
 ## Some Features
 
 * user login and registration, all user; and department information are stored in Orable database;
